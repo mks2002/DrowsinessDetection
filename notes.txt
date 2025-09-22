@@ -1,0 +1,5 @@
+git init 
+git remote add origin https://github.com/mks2002/DrowsinessDetection.git
+git add .
+git commit -m "Initial commit with project files"
+git push -u origin master  # Or use 'main' if your default branch is 'main'
